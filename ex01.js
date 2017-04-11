@@ -12,3 +12,10 @@
         getCharAt("salut", 4); // "t"
 
 */
+
+str getCharAt(str, position);
+
+function getCharAt(str, position) {
+    s.substring
+    
+}
